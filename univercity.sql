@@ -103,11 +103,13 @@ ADD COLUMN AGE INT NOT NULL DEFAULT 19;
 
 
 SELECT * FROM STUDENT;
+alter table student
+drop column stu_age;
 
+SELECT * FROM STu;
 
-
-
-
+alter table student
+rename to stu;
 
 
 
