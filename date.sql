@@ -1,0 +1,5 @@
+-- Full SQL query to get the current date
+SELECT CURRENT_DATE AS TodayDate;
+SELECT CURRENT_DATE;
+SELECT GETDATE();
+SELECT CURDATE();
